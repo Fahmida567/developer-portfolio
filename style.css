@@ -4,6 +4,21 @@ body
     margin: 0;
 
 }
+#id2{
+    font-size:45px;
+}
+#font{
+    font-family:cursive;
+    font-style: inherit;
+    font-weight: bold;
+    font-size: 30px;
+}
+#pFont
+{
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 20px;
+}
 h1{
     font-size: 50px;
     color:
@@ -75,7 +90,7 @@ h2{
 }
 #full-stack-experience
 {   border-left: 7px solid;
-    border-image:linear-gradient(purple,tomato);
+    border-image:linear-gradient(rgb(89, 29, 167),tomato);
     border-image-slice: 1;
 
 }
